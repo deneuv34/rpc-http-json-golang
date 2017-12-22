@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/rpc"
 	"net/rpc/jsonrpc"
-	"test-golang/contracts"
+	"rpc-http-json-golang/contracts"
 )
 
 const port = 1234
